@@ -1,5 +1,3 @@
-# amdefine
-
 Can turn the resource path of HTM \ HTML file or background:url('xxxx') into an absolute path, and add the CDN prefix
 
 ## Install
