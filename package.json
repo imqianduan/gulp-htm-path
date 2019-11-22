@@ -1,0 +1,17 @@
+{
+  "name": "gulp-htm-path",
+  "version": "1.0.3",
+  "description": "Images in the CSS file path can be converted into an absolute path, and add the CDN prefix",
+  "main": "index.js",
+  "dependencies": {
+    "istextorbinary": "^2.1.0",
+    "readable-stream": "^2.2.9",
+    "replacestream": "^4.0.2",
+    "chalk":"^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
